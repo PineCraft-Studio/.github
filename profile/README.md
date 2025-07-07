@@ -62,13 +62,6 @@ We are obsessed with **clean architecture**, **SOLID principles**, and tools tha
 
 ---
 
-## 💡 Fun Fact
-
-> Our devs love naming internal tools after forest animals.  
-> (Yes, there’s a level builder named **“FoxBrush”** 🦊)
-
----
-
 ## 🌐 Find Us Online
 
 🔗 Visit our official site: [**pinecraft.vn**](https://pinecraft.vn)
