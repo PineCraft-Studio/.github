@@ -1,8 +1,20 @@
-![Auto Assign](https://github.com/PineCraft-Studio/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/209327345?s=200&v=4" width="120" />
+</p>
 
-![Proof HTML](https://github.com/PineCraft-Studio/demo-repository/actions/workflows/proof-html.yml/badge.svg)
+<h1 align="center">🌲 PineCraft Studio</h1>
+<p align="center">We build games with care. Code with precision.</p>
 
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+<p align="center">
+  <img src="https://img.shields.io/badge/Engine-Unity-black?logo=unity&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Engine-Unreal-313131?logo=unrealengine&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform-Mobile%20%7C%20PC-blue?style=for-the-badge&logo=apple" />
+</p>
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+---
+
+## 🎮 About Us
+
+PineCraft is a Vietnam-based game outsourcing studio focused on Unity, Unreal, and real-time interactive development. We work with studios worldwide to prototype, build, and polish engaging games — from hyper-casual to stylized indie experiences.
+
+🌐 https://pinecraft.vn
